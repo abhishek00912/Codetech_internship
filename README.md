@@ -1,0 +1,2 @@
+# Codetech_internship
+ C++ APPLICATION TO READ,  WRITE, AND APPEND DATA TO TEXT  FILES
